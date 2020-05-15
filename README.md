@@ -2,10 +2,11 @@
 
 This is an example of simple test scripts for AngularJS application (we are using JetBlue website as an example) using **Protractor**. Protractor is using Jasmine as a Testing Framework.
 
-Pre-requisites:
+**Pre-requisites:**
 
-1. You need to make sure you have **Node.js** installed on your machine https://nodejs.org/en/download/
-2. You need to make sure you have **JDK** (Java Development Kit) installed on your machine https://www.oracle.com/java/technologies/javase-downloads.html
+You need to make sure you have **Node.js** installed on your machine https://nodejs.org/en/download/
+
+You need to make sure you have **JDK** (Java Development Kit) installed on your machine https://www.oracle.com/java/technologies/javase-downloads.html
 
 
 How to install and run:
