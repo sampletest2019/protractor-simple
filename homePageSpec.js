@@ -1,5 +1,5 @@
 // spec.js
-describe('JetBlue App', function() {
+describe('JetBlue Home Page', function() {
     it('should have a title', function() {
       browser.get('https://www.jetblue.com/');
   
